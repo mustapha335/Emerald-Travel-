@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  height: 100vh;
+  height: 85vh;
   width: 100vw;
 `;
 const Info = styled.div`
@@ -36,6 +36,7 @@ const Button = styled.button`
   cursor: pointer;
   font-weight: 600;
   border-radius: 7px;
+  transition: all 0.5s ease;
 
   &:hover {
     -webkit-box-shadow: 4px 12px 20px -5px rgba(0, 0, 0, 0.77);

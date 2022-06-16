@@ -40,9 +40,9 @@ const Navbar = () => {
           Travels
         </Logo>
         <Center>
-          <span className='item'>Home</span>
-          <span className='item'>About Us</span>
-          <span className='item'>Packages</span>
+          <span>Home</span>
+          <span>About Us</span>
+          <span>Packages</span>
         </Center>
         <div className='right'>
           <Image src='https://images.unsplash.com/photo-1569210954449-4e8dc4e022a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGZhY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60' />

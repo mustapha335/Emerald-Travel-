@@ -1,0 +1,36 @@
+.service-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.services {
+  display: flex;
+  justify-content: space-around;
+}
+.item {
+  margin: 10px;
+  padding: 10px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 12px;
+  height: 120px;
+  width: 15.5rem;
+}
+.icon:nth-child(1) {
+  margin-left: 9px;
+  color: #32df8f;
+}
+.icon2 {
+  color: #00b8e0;
+}
+.icon3 {
+  color: #e48b78;
+}
+.item-title {
+  margin: 12px 0px;
+  font-size: 20px;
+}
+.item-desc {
+  padding-top: 8px;
+  font-size: 12px;
+}

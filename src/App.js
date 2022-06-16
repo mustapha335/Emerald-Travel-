@@ -1,6 +1,7 @@
 import "./App.css";
 import Featured from "./components/Featured";
 import Navbar from "./components/Navbar";
+import Services from "./components/services/Services";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
           <Navbar />
           <Featured />
         </div>
+        <Services />
       </div>
     </div>
   );
