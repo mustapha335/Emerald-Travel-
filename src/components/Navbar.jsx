@@ -3,8 +3,6 @@ import styled from "styled-components";
 
 const Container = styled.div`
   height: 150px;
-  background-color: grey;
-  background: linear-gradient(to top, transparent 0%, rgb(0, 0, 0, 0.5) 50%);
 `;
 const Wrapper = styled.div`
   display: flex;
