@@ -14,19 +14,18 @@ const Info = styled.div`
 `;
 const Title = styled.h1`
   text-align: center;
-  font-size: 50px;
-  line-height: 50px;
+  font-size: 55px;
+  line-height: 54px;
   font-weight: 800;
   letter-spacing: 2px;
   margin-bottom: 30px;
-  color: white;
+  color: #364a43;
 `;
 const Desc = styled.div`
   text-align: center;
-  font-size: 15px;
-  font-weight: light;
+  font-size: 19px;
+  font-weight: 600;
   margin-bottom: 25px;
-  color: white;
 `;
 const Button = styled.button`
   border: none;

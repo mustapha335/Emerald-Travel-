@@ -1,0 +1,50 @@
+.destinationContainer {
+  background-color: rgba(68, 102, 90, 0.459);
+  margin-top: 0;
+  height: 33rem;
+}
+.distinationTitle {
+  text-align: center;
+  font-size: 28px;
+  padding-top: 20px;
+  font-weight: 800;
+  color: #364a43;
+}
+.destinationItem {
+  display: flex;
+  justify-content: space-between;
+  /* -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47); */
+  box-shadow: 0 4px 30px rgba(16, 15, 15, 0.1);
+  border-radius: 10px;
+  height: 5.7rem;
+  background-color: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur;
+  margin-top: 20px;
+}
+.itemTitle {
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  margin-top: 1.8rem;
+}
+.destinationItems {
+  width: 100%;
+  /* margin-bottom: 20px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.destinationImg {
+  height: auto;
+  width: 8.6rem;
+  border-radius: 10px 0px 0px 15px;
+}
+.itemIcon {
+  margin-top: 1rem;
+  padding: 20px;
+  font-size: 20px;
+}
+.destinationItemWrapper {
+  margin-top: 40px;
+  margin-left: 40px;
+}

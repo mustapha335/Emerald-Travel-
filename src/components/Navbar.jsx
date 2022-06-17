@@ -15,7 +15,7 @@ const Logo = styled.h3`
   margin-right: 40px;
   font-size:20px
   font-weight: bold;
-  text-align: center;
+  text-align: center
 `;
 
 const Center = styled.div`
