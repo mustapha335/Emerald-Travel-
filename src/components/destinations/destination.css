@@ -1,7 +1,7 @@
 .destinationContainer {
   background-color: rgba(68, 102, 90, 0.459);
   margin-top: 0;
-  height: 33rem;
+  height: 34rem;
 }
 .distinationTitle {
   text-align: center;
@@ -13,11 +13,12 @@
 .destinationItem {
   display: flex;
   justify-content: space-between;
-  /* -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
-  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47); */
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
   box-shadow: 0 4px 30px rgba(16, 15, 15, 0.1);
   border-radius: 10px;
-  height: 5.7rem;
+  height: 5.9rem;
+  width: 22.5rem;
   background-color: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur;
   margin-top: 20px;
@@ -29,14 +30,13 @@
 }
 .destinationItems {
   width: 100%;
-  /* margin-bottom: 20px; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 .destinationImg {
   height: auto;
-  width: 8.6rem;
+  width: 7.5rem;
   border-radius: 10px 0px 0px 15px;
 }
 .itemIcon {

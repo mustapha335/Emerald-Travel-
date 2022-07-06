@@ -5,11 +5,11 @@ import { destinations } from "../../data";
 const Destinations = () => {
   return (
     <div className='destinationContainer'>
-      <div className='distinationTitle'>Our Popular Distinations</div>
+      <div className='distinationTitle'>Our Popular Destinations</div>
 
       <div className='destinationItems'>
         {destinations.map((item) => (
-          <div className='destinationItemWrapper' key={destinations.id}>
+          <div className='destinationItemWrapper' key={item.id}>
             <div className='destinationItem'>
               <img src={item.img} alt='' className='destinationImg' />
 

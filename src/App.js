@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Services from "./components/services/Services";
 import Data from "./components/Data";
 import Destinations from "./components/destinations/Destinations";
+import Packages from "./components/Packages/Packages";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Services />
         <Data />
         <Destinations />
+        <Packages />
       </div>
     </div>
   );

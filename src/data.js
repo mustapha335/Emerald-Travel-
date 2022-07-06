@@ -9,13 +9,13 @@ export const destinations = [
   {
     id: 2,
     title: "Indonesia",
-    img: "https://images.unsplash.com/photo-1537996194471-e657df975ab4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGluZG9uZXNpYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    img: "https://images.pexels.com/photos/11110076/pexels-photo-11110076.jpeg?auto=compress&cs=tinysrgb&w=300",
   },
 
   {
     id: 3,
-    title: "New Zeland",
-    img: "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bmV3JTIwemVhbGFuZCUyMGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    title: "London",
+    img: "https://images.pexels.com/photos/258117/pexels-photo-258117.jpeg?auto=compress&cs=tinysrgb&w=300",
   },
 
   {
@@ -42,7 +42,7 @@ export const packages = [
   {
     id: 1,
     title: "Indonesia",
-    img: "https://images.unsplash.com/photo-1520179237290-429836c06b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIwfHxpbmRvbmVzaWElMjBpc2xhbmR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    img: "https://images.pexels.com/photos/1643130/pexels-photo-1643130.jpeg?auto=compress&cs=tinysrgb&w=300",
     stay: "3 Days, 2 Nights",
     price: 500,
     desc: "Explore the Beauty of the island for 3 days and 2 nights with our travel agency",
@@ -50,7 +50,7 @@ export const packages = [
   {
     id: 2,
     title: "Dubai",
-    img: "https://images.unsplash.com/photo-1520179237290-429836c06b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIwfHxpbmRvbmVzaWElMjBpc2xhbmR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    img: "https://images.pexels.com/photos/460683/pexels-photo-460683.jpeg?auto=compress&cs=tinysrgb&w=300",
     stay: "3 Days, 2 Nights",
     price: 800,
     desc: "Explore the Beauty of Dubai for 3 days and 2 nights with our travel agency",
